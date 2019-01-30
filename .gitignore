@@ -15,4 +15,7 @@ resources/.arch-internal-preview.css
 .idea/
 data/
 *.csv
+*.zip
 theme/
+d3/
+newdata/
